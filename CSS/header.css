@@ -1,0 +1,39 @@
+header .logo {
+ font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color : #2E2F42;
+  text-decoration: none;
+}
+header .logo .logotype {
+  color: #4D5AE5;
+  text-decoration: none;
+}
+header .email {
+  color: #434455;
+  text-decoration: none;
+}
+header .email:focus,
+header .email:hover {
+  color: #404BBF;
+}
+header .phone {
+  color: #434455;
+  text-decoration: none;
+}
+header .phone:focus,
+header .phone:hover {
+  color: #404BBF;
+}
+header nav a {
+  color: #2E2F42;
+  text-decoration: none;
+}
+header nav a:focus,
+header nav a:hover {
+  color: #404BBF;
+  text-decoration: none;
+}
