@@ -19,6 +19,7 @@ address {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
 }
@@ -30,6 +31,7 @@ address {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
 }
@@ -41,6 +43,7 @@ address {
   color: #2E2F42;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 .nav-link:focus,
