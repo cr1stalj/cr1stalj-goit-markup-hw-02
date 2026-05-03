@@ -1,21 +1,26 @@
-#hero {
+.hero {
     background-color: #2e2f42;
-    padding-bottom: 48px;
 }
-#hero h1 {
-    
+
+.hero-title {
     font-weight: 700;
-        font-size: 56px;                        
-        line-height: 1.07143;
-        letter-spacing: 0.02em;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
     color: #ffffff;
-    text-align: center;}
-#hero .hero-button {
- background-color: #4D5AE5;
+    text-align: center;
+}
+
+.hero-button {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #4d5ae5;
     color: #ffffff;
     cursor: pointer;
 }
-#hero .hero-button:focus,
-#hero .hero-button:hover {
- background-color: #404BBF;
-} 
+
+.hero-button:focus,
+.hero-button:hover {
+    background-color: #404bbf;
+}

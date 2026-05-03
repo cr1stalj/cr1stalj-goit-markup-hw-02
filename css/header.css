@@ -1,39 +1,50 @@
-header .logo {
+.logo {
  font-family: raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color : #2E2F42;
   text-decoration: none;
 }
-header .logo .logotype {
+.logo .logotype {
   color: #4D5AE5;
   text-decoration: none;
 }
-header .email {
+address {
+  font-style: normal;
+}
+.email {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
   color: #434455;
   text-decoration: none;
 }
-header .email:focus,
-header .email:hover {
+.email:focus,
+.email:hover {
   color: #404BBF;
 }
-header .phone {
+.phone {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
   color: #434455;
   text-decoration: none;
 }
-header .phone:focus,
-header .phone:hover {
+.phone:focus,
+.phone:hover {
   color: #404BBF;
 }
-header nav a {
+.nav-link {
   color: #2E2F42;
+  font-size: 16px;
+  line-height: 1.5;
   text-decoration: none;
 }
-header nav a:focus,
-header nav a:hover {
+.nav-link:focus,
+.nav-link:hover {
   color: #404BBF;
   text-decoration: none;
 }
